@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @navi1910
-- 👀 I’m interested in Data Science, Data Vizualiztion, Lean operations and Project Management.
-- 🌱 I’m currently learning Bsc. Honors in Data Science
+- 👋 Hi, I’m Naveen A @navi1910
+- 👀 I’m interested in Data Science, Data Vizualiztion, AI, Deeep Learning, BIG Data, Lean operations and Project Management.
+- 🌱 I’m currently pursuing Bsc. Honors in Data Science and Analytics, Jain University.
 - 💞️ I’m looking to collaborate on varied projects
-- 📫 How to reach me email : nasajeager2001@gmail.com
+- 📫 Gmail : nasajeager2001@gmail.com
 
 <!---
 navi1910/navi1910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
